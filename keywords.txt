@@ -1,0 +1,12 @@
+EnergyStorage	KEYWORD1
+EnergyStorageStatus	KEYWORD1
+EnergyDayRecord	KEYWORD1
+EnergyRecordQuality	KEYWORD1
+begin	KEYWORD2
+update	KEYWORD2
+todayWh	KEYWORD2
+monthWh	KEYWORD2
+totalWh	KEYWORD2
+todayPartial	KEYWORD2
+getHistory	KEYWORD2
+decodeDayKey	KEYWORD2
